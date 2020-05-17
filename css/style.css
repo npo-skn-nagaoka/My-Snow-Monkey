@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .p-global-nav {
   padding: .5em;
 }
@@ -10,6 +11,14 @@
   background: #4b60fb;
   color: #fff;
   border-radius: 5px;
+}
+
+.c-site-branding__title:before {
+  content: 'NPO法人市民協働ネットワーク長岡';
+  display: block;
+  font-size: .8rem;
+  font-weight: 400;
+  padding-bottom: .2rem;
 }
 
 .c-page-header__bgimage > img {
