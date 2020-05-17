@@ -38,12 +38,4 @@
   margin-top: 1em;
   font-size: 13px;
 }
-
-@media (min-width: 576px) {
-  .d-flex-medium {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-  }
-}
 /*# sourceMappingURL=style.css.map */
